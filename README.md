@@ -1,7 +1,7 @@
 # Analisis-de-Metodos-de-Deteccion-de-SSVEP-en-Senales-EEG
 Análisis de métodos de detección de potenciales visuales evocados en señales de electroencefalografía
 
-####Estructura del repositorio
+#### Estructura del repositorio
 El repositorio está organizado de la siguiente manera:
 
 - Funciones auxiliares en Python:
