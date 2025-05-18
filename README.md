@@ -5,7 +5,7 @@ Análisis de métodos de detección de potenciales visuales evocados en señales
 El repositorio está organizado de la siguiente manera:
 
 - Funciones auxiliares en Python:
-Las funciones largas y repetitivas han sido implementadas por separado para facilitar su reutilización y mantener los notebooks más limpios. Estas funciones se encuentran en erchivo utils.py.
+Las funciones largas y repetitivas han sido implementadas por separado para facilitar su reutilización y mantener los notebooks más limpios. Estas funciones se encuentran en el archivo utils.py.
 
 - Notebooks principales del proyecto:
 La mayor parte del análisis y visualización de resultados se ha realizado en forma de cuadernos Jupyter. A continuación se describen los notebooks más importantes:
